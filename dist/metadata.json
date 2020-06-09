@@ -1,0 +1,6 @@
+{
+  "name": "tmbd",
+  "identifier": "net.pancho.app.tmdb",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}
